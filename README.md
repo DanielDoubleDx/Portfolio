@@ -8,7 +8,7 @@ Welcome to my personal portfolio website!
 
 ## 📸 Preview
 
-![Portfolio Preview](src/assets/images/Portfolio%20Preview.png)
+![Portfolio Preview](Portfolio_Preview.png)
 
 ## ✨ Features
 

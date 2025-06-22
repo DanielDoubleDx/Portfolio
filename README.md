@@ -4,11 +4,11 @@ Welcome to my personal portfolio website!
 
 ## 🔗 Live Website
 
-👉 [View Portfolio Live]
+👉 [View Portfolio Live](https://portfolio-six-lyart-27.vercel.app/)
 
 ## 📸 Preview
 
-![Portfolio Preview]
+![Portfolio Preview](src/assets/images/Portfolio%20Preview.png)
 
 ## ✨ Features
 

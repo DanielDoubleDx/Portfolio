@@ -90,8 +90,8 @@ const Contact = () => {
     {
       icon: <FaMapMarkerAlt />,
       title: 'Location',
-      content: '8519 Craig Mews, Rowlett, TX 75089',
-      link: 'https://maps.app.goo.gl/FMKSd6SL7GcaP7FV9'
+      content: '2704 Andorra Rd, McKinney, TX 75071',
+      link: 'https://maps.app.goo.gl/kh6oTVosezJXb6N26'
     }
   ]
 
